@@ -1,17 +1,17 @@
 # 🐍 SlitherNova 🐍
 
-*"Slither, Dash, Conquer – A Futuristic Twist on the Classic Snake Game"*
+*Slither, Dash, Conquer – A Futuristic Twist on the Classic Snake Game*
 
 ### 📝 Overview :--
 
-SlitherNova is a **modern, interactive version of the classic Snake game**. Built with **HTML, CSS, and JavaScript**, it offers neon aesthetics, smooth animations, and immersive gameplay.  
+SlitherNova is a **modern, interactive version of the classic Snake game**. It offers neon aesthetics, smooth animations, and immersive gameplay.  
 
-### Players can enjoy :--  
-- **Dynamic Themes:** Classic, Dark, and Neon modes.  
-- **Adaptive Difficulty:** Easy, Medium, and Hard levels.  
-- **Responsive Controls:** Keyboard arrow keys for precise navigation.  
-- **Interactive Audio:** Sounds for moving, eating, and game over, with mute/unmute toggle.  
-- **High Score Tracking:** Persistent leaderboard using **localStorage**.  
+### 💡Players can enjoy :--  
+- **Dynamic Themes :** Classic, Dark, and Neon modes.  
+- **Adaptive Difficulty :** Easy, Medium, and Hard levels.  
+- **Responsive Controls :** Keyboard arrow keys for precise navigation.  
+- **Interactive Audio :** Sounds for moving, eating, and game over, with mute/unmute toggle.  
+- **High Score Tracking :** Persistent leaderboard using **localStorage**.  
 
 ### ⚡Features :--
 
@@ -23,9 +23,9 @@ SlitherNova is a **modern, interactive version of the classic Snake game**. Buil
 
 ### 🛠 Tech Stack :--
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
-- **Storage:** Browser LocalStorage (High Score Tracking)  
-- **Audio/Visual:** Custom sounds and CSS animations  
+- **Frontend :** HTML5, CSS3, JavaScript (ES6+)  
+- **Storage :** Browser LocalStorage (High Score Tracking)  
+- **Audio / Visual :** Custom sounds and CSS animations  
 
 ### 🚀 How to Play :--
 
@@ -49,11 +49,11 @@ SlitherNova is a **modern, interactive version of the classic Snake game**. Buil
 
 ### 🎵 Credits :--
 
-- Music & Sound Effects: Free-to-use or self-created.
-- Images: Free stock images or self-created.
+- Music & Sound Effects : Free-to-use or self-created.
+- Images : Free stock images or self-created.
 
 ### 🔗 Live Demo :--
 
-- Check out the game live here : **[https://slither-nova.vercel.app/](SlitherNova)** 
+- Check out the game live here : **[SlitherNova](https://slither-nova.vercel.app/)** 
 
-*A sneak peek of SlitherNova in action!🎮*
+### ✨*A sneak peek of SlitherNova in action !*
