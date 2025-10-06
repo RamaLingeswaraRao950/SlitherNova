@@ -56,4 +56,6 @@ SlitherNova is a **modern, interactive version of the classic Snake game**. It o
 
 - Check out the game live here : **[SlitherNova](https://slither-nova.vercel.app/)** 
 
-### ✨*A sneak peek of SlitherNova in action !*
+✨*A sneak peek of SlitherNova in action !*
+
+👨‍💻 Coded by : Rama Lingeswara Rao
