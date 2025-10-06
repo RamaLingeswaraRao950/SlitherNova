@@ -36,7 +36,7 @@ SlitherNova is a **modern, interactive version of the classic Snake game**. It o
    - **←** = Left  
    - **→** = Right  
 3. Eat food to grow and increase your score.  
-4. Avoid colliding with walls or yourself!  
+4. Avoid colliding with walls or yourself !  
 5. Use the **Mute button** to toggle audio.  
 6. Change **Themes** or **Difficulty** anytime from the dropdown menus.  
 7. Restart after game over by clicking the **Restart Game** button.  
@@ -45,7 +45,7 @@ SlitherNova is a **modern, interactive version of the classic Snake game**. It o
 
 - Demonstrates **interactive DOM manipulation** in JavaScript.  
 - Showcases **responsive design and animations** using CSS.  
-- Fun, polished, and ready for deployment!  
+- Fun, polished, and ready for deployment !  
 
 ### 🎵 Credits :--
 
@@ -56,6 +56,6 @@ SlitherNova is a **modern, interactive version of the classic Snake game**. It o
 
 - Check out the game live here : **[SlitherNova](https://slither-nova.vercel.app/)** 
 
-✨*A sneak peek of SlitherNova in action !*
+*✨ A sneak peek of SlitherNova in action !*
 
-👨‍💻 Coded by : Rama Lingeswara Rao
+*👨‍💻 Coded by : Rama Lingeswara Rao Sivakavi*
